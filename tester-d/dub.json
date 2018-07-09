@@ -1,0 +1,9 @@
+{
+	"name": "tester-d",
+	"authors": [
+		"kasra"
+	],
+	"description": "A tester for the Cornerstone compiler framework.",
+	"copyright": "Copyright © 2018, kasra",
+	"license": "MIT"
+}
